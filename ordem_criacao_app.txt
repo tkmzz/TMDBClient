@@ -1,0 +1,2 @@
+começar criando Data/Domain Components(pasta data 1)
+proxima é a presentation
